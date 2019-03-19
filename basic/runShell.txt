@@ -1,0 +1,1 @@
+java -cp basic/Hello.jar basic.Hello
